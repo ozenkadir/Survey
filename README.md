@@ -14,8 +14,8 @@ Responses provided to survey inquiries are utilized to generate a scoring mechan
 - Responsive Designs
 - Dynamic Components
 - User Authentication
-  - axios
-  - fakestoreapi
+  - Axios
+  - Fakestoreapi
 - Context API
 - Timer
 - Survey and Scoring
@@ -23,7 +23,7 @@ Responses provided to survey inquiries are utilized to generate a scoring mechan
 
 # Screens
 
-- Login - Sign Up
+## Login - Sign Up
 
 <div style="display: flex; justify-content: space-between;">
 <img  src="https://github.com/ozenkadir/react-native-survey-demo/assets/92018201/763b8365-ce9d-46f8-b717-c21f96ea179e" alt="login" width="220"/>
@@ -31,7 +31,7 @@ Responses provided to survey inquiries are utilized to generate a scoring mechan
 <img src="https://github.com/ozenkadir/react-native-survey-demo/assets/92018201/e1c04c5e-26c1-406d-a447-603a6689e1b7" alt="Simulator Screenshot - iPhone 15 Pro - 2024-04-03 at 23 56 49" width="220"/>
 </div>
 
-- Survey 
+## Survey 
 
 <div style="display: flex; justify-content: space-between;">
 <img  src="https://github.com/ozenkadir/react-native-survey-demo/assets/92018201/52b74272-243e-4070-b398-243bfe15b677" alt="rainbowButtons" width="200"/>
@@ -41,7 +41,8 @@ Responses provided to survey inquiries are utilized to generate a scoring mechan
 </div>
 
 
-- Bottom Tab Screens
+## Bottom Tab Screens 
+
 <div style="display: flex; justify-content: space-between;">
 <img  src="https://github.com/ozenkadir/react-native-survey-demo/assets/92018201/543318a6-e18e-45d5-a446-12ced6dbfbe1" alt="home" width="220"/>
 <img  src="https://github.com/ozenkadir/react-native-survey-demo/assets/92018201/ad35fb07-8b57-4ef0-a707-3fb23e75a9dd" alt="profile" width="220"/>
